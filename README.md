@@ -16,4 +16,4 @@ Contact: knodele@arizona.edu
 
 | Dataset | Reference | Number of samples |
 | ------- | --------- | ----------------- |
-| Ji | [Ji]{https://www.sciencedirect.com/science/article/pii/S0092867420306723} | 9 | 
+| Ji | [Full text] (https://www.sciencedirect.com/science/article/pii/S0092867420306723) | 9 | 
