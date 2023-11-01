@@ -4,15 +4,13 @@ Analysis of mutational burden and signature from existing scc whole exome sequen
 
 ----
 
-## Update information
-
 Last Uptated: 11/1/2023
 
 Updated by: Elizabeth Borden 
 
 Contact: knodele@arizona.edu
 
-## Datasets utilized
+## Datasets
 
 | Dataset | Paper Link | Number of samples |
 | ------- | --------- | ----------------- |
