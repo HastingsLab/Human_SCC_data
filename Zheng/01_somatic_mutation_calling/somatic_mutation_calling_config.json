@@ -1,0 +1,395 @@
+{
+    "fastq_path": "/scratch/eknodel/Zheng_cancergenomics/fastqs",
+    "bam_path": "/data/CEM/shared/neoantigens/bams/",
+    "all_samples": [
+        "SRR2194554",
+        "SRR2194574",
+        "SRR2194578",
+        "SRR2194573",
+        "SRR2194577",
+        "SRR2194572",
+        "SRR2194575",
+        "SRR2194576",
+        "SRR2194564",
+        "SRR2194553",
+        "SRR2194567",
+        "SRR2194558",
+        "SRR2194566",
+        "SRR2194557",
+        "SRR2194565",
+        "SRR2194556",
+        "SRR2194563",
+        "SRR2194555",
+        "SRR2194571",
+        "SRR2194562",
+        "SRR2194570",
+        "SRR2194561",
+        "SRR2194569",
+        "SRR2194560",
+        "SRR2194568",
+        "SRR2194559"
+    ],
+    "DNA": [
+        "SRR2194554",
+        "SRR2194574",
+        "SRR2194578",
+        "SRR2194573",
+        "SRR2194577",
+        "SRR2194572",
+        "SRR2194576",
+        "SRR2194564",
+        "SRR2194575",
+        "SRR2194553",
+        "SRR2194567",
+        "SRR2194558",
+        "SRR2194566",
+        "SRR2194557",
+        "SRR2194565",
+        "SRR2194556",
+        "SRR2194563",
+        "SRR2194555",
+        "SRR2194571",
+        "SRR2194562",
+        "SRR2194570",
+        "SRR2194561",
+        "SRR2194569",
+        "SRR2194560",
+        "SRR2194568",
+        "SRR2194559"
+    ],
+    "RNA": [],
+    "all_subjects": [
+        "XPC2",
+        "WT10",
+        "XPC1",
+        "WT6",
+        "WT7",
+        "WT12",
+        "XPC4",
+        "WT11",
+        "WT9",
+        "WT13",
+        "WT8",
+        "XPC5",
+        "XPC3"
+    ],
+    "XPC5": {
+        "normal": "SRR2194554",
+        "tumor": "SRR2194574"
+    },
+    "XPC4": {
+        "normal": "SRR2194578",
+        "tumor": "SRR2194573"
+    },
+    "XPC3": {
+        "normal": "SRR2194577",
+        "tumor": "SRR2194572"
+    },
+    "XPC2": {
+        "normal": "SRR2194576",
+        "tumor": "SRR2194564"
+    },
+    "XPC1": {
+        "normal": "SRR2194575",
+        "tumor": "SRR2194553"
+    },
+    "WT9": {
+        "normal": "SRR2194567",
+        "tumor": "SRR2194558"
+    },
+    "WT8": {
+        "normal": "SRR2194566",
+        "tumor": "SRR2194557"
+    },
+    "WT7": {
+        "normal": "SRR2194565",
+        "tumor": "SRR2194556"
+    },
+    "WT6": {
+        "normal": "SRR2194563",
+        "tumor": "SRR2194555"
+    },
+    "WT13": {
+        "normal": "SRR2194571",
+        "tumor": "SRR2194562"
+    },
+    "WT12": {
+        "normal": "SRR2194570",
+        "tumor": "SRR2194561"
+    },
+    "WT11": {
+        "normal": "SRR2194569",
+        "tumor": "SRR2194560"
+    },
+    "WT10": {
+        "normal": "SRR2194568",
+        "tumor": "SRR2194559"
+    },
+    "SRR2194554": {
+        "fq_1": "SRR2194554.1.fastq",
+        "fq_2": "SRR2194554.2.fastq",
+	"bam": "XPC5_Normal.bam",
+        "ID": "SRR2194554",
+        "SM": "SRR2194554",
+        "LB": "SRR2194554",
+        "PU": "SRR2194554",
+        "PL": "Illumina"
+    },
+    "SRR2194574": {
+        "fq_1": "SRR2194574.1.fastq",
+        "fq_2": "SRR2194574.2.fastq",
+	"bam": "XPC5_Tumor.bam",
+        "ID": "SRR2194574",
+        "SM": "SRR2194574",
+        "LB": "SRR2194574",
+        "PU": "SRR2194574",
+        "PL": "Illumina"
+    },
+    "SRR2194578": {
+        "fq_1": "SRR2194578.1.fastq",
+        "fq_2": "SRR2194578.2.fastq",
+	"bam": "XPC4_Normal.bam",
+        "ID": "SRR2194578",
+        "SM": "SRR2194578",
+        "LB": "SRR2194578",
+        "PU": "SRR2194578",
+        "PL": "Illumina"
+    },
+    "SRR2194573": {
+        "fq_1": "SRR2194573.1.fastq",
+        "fq_2": "SRR2194573.2.fastq",
+	"bam": "XPC4_Tumor.bam",
+        "ID": "SRR2194573",
+        "SM": "SRR2194573",
+        "LB": "SRR2194573",
+        "PU": "SRR2194573",
+        "PL": "Illumina"
+    },
+    "SRR2194577": {
+        "fq_1": "SRR2194577.1.fastq",
+        "fq_2": "SRR2194577.2.fastq",
+	"bam": "XPC3_Normal.bam",
+        "ID": "SRR2194577",
+        "SM": "SRR2194577",
+        "LB": "SRR2194577",
+        "PU": "SRR2194577",
+        "PL": "Illumina"
+    },
+    "SRR2194572": {
+        "fq_1": "SRR2194572.1.fastq",
+        "fq_2": "SRR2194572.2.fastq",
+	"bam": "XPC3_Tumor.bam",
+        "ID": "SRR2194572",
+        "SM": "SRR2194572",
+        "LB": "SRR2194572",
+        "PU": "SRR2194572",
+        "PL": "Illumina"
+    },
+    "SRR2194576": {
+        "fq_1": "SRR2194576.1.fastq",
+        "fq_2": "SRR2194576.2.fastq",
+	"bam": "XPC2_Normal.bam",
+        "ID": "SRR2194576",
+        "SM": "SRR2194576",
+        "LB": "SRR2194576",
+        "PU": "SRR2194576",
+        "PL": "Illumina"
+    },
+    "SRR2194564": {
+        "fq_1": "SRR2194564.1.fastq",
+        "fq_2": "SRR2194564.2.fastq",
+	"bam": "XPC2_Tumor.bam",
+        "ID": "SRR2194564",
+        "SM": "SRR2194564",
+        "LB": "SRR2194564",
+        "PU": "SRR2194564",
+        "PL": "Illumina"
+    },
+    "SRR2194575": {
+        "fq_1": "SRR2194575.1.fastq",
+        "fq_2": "SRR2194575.2.fastq",
+	"bam": "XPC1_Normal.bam",
+        "ID": "SRR2194575",
+        "SM": "SRR2194575",
+        "LB": "SRR2194575",
+        "PU": "SRR2194575",
+        "PL": "Illumina"
+    },
+    "SRR2194553": {
+        "fq_1": "SRR2194553.1.fastq",
+        "fq_2": "SRR2194553.2.fastq",
+	"bam": "XPC1_Tumor.bam",
+        "ID": "SRR2194553",
+        "SM": "SRR2194553",
+        "LB": "SRR2194553",
+        "PU": "SRR2194553",
+        "PL": "Illumina"
+    },
+    "SRR2194567": {
+        "fq_1": "SRR2194567.1.fastq",
+        "fq_2": "SRR2194567.2.fastq",
+	"bam": "WT4_Normal.bam",
+        "ID": "SRR2194567",
+        "SM": "SRR2194567",
+        "LB": "SRR2194567",
+        "PU": "SRR2194567",
+        "PL": "Illumina"
+    },
+    "SRR2194558": {
+        "fq_1": "SRR2194558.1.fastq",
+        "fq_2": "SRR2194558.2.fastq",
+	"bam": "WT4_Tumor.bam",
+        "ID": "SRR2194558",
+        "SM": "SRR2194558",
+        "LB": "SRR2194558",
+        "PU": "SRR2194558",
+        "PL": "Illumina"
+    },
+    "SRR2194566": {
+        "fq_1": "SRR2194566.1.fastq",
+        "fq_2": "SRR2194566.2.fastq",
+	"bam": "WT3_Normal.bam",
+        "ID": "SRR2194566",
+        "SM": "SRR2194566",
+        "LB": "SRR2194566",
+        "PU": "SRR2194566",
+        "PL": "Illumina"
+    },
+    "SRR2194557": {
+        "fq_1": "SRR2194557.1.fastq",
+        "fq_2": "SRR2194557.2.fastq",
+	"bam": "WT3_Tumor.bam",
+        "ID": "SRR2194557",
+        "SM": "SRR2194557",
+        "LB": "SRR2194557",
+        "PU": "SRR2194557",
+        "PL": "Illumina"
+    },
+    "SRR2194565": {
+        "fq_1": "SRR2194565.1.fastq",
+        "fq_2": "SRR2194565.2.fastq",
+	"bam": "WT2_Normal.bam",
+        "ID": "SRR2194565",
+        "SM": "SRR2194565",
+        "LB": "SRR2194565",
+        "PU": "SRR2194565",
+        "PL": "Illumina"
+    },
+    "SRR2194556": {
+        "fq_1": "SRR2194556.1.fastq",
+        "fq_2": "SRR2194556.2.fastq",
+	"bam": "WT2_Tumor.bam",
+        "ID": "SRR2194556",
+        "SM": "SRR2194556",
+        "LB": "SRR2194556",
+        "PU": "SRR2194556",
+        "PL": "Illumina"
+    },
+    "SRR2194563": {
+        "fq_1": "SRR2194563.1.fastq",
+        "fq_2": "SRR2194563.2.fastq",
+	"bam": "WT1_Normal.bam",
+        "ID": "SRR2194563",
+        "SM": "SRR2194563",
+        "LB": "SRR2194563",
+        "PU": "SRR2194563",
+        "PL": "Illumina"
+    },
+    "SRR2194555": {
+        "fq_1": "SRR2194555.1.fastq",
+        "fq_2": "SRR2194555.2.fastq",
+	"bam": "WT1_Tumor.bam",
+        "ID": "SRR2194555",
+        "SM": "SRR2194555",
+        "LB": "SRR2194555",
+        "PU": "SRR2194555",
+        "PL": "Illumina"
+    },
+    "SRR2194571": {
+        "fq_1": "SRR2194571.1.fastq",
+        "fq_2": "SRR2194571.2.fastq",
+	"bam": "WT8_Normal.bam",
+        "ID": "SRR2194571",
+        "SM": "SRR2194571",
+        "LB": "SRR2194571",
+        "PU": "SRR2194571",
+        "PL": "Illumina"
+    },
+    "SRR2194562": {
+        "fq_1": "SRR2194562.1.fastq",
+        "fq_2": "SRR2194562.2.fastq",
+	"bam": "WT8_Tumor.bam",
+        "ID": "SRR2194562",
+        "SM": "SRR2194562",
+        "LB": "SRR2194562",
+        "PU": "SRR2194562",
+        "PL": "Illumina"
+    },
+    "SRR2194570": {
+        "fq_1": "SRR2194570.1.fastq",
+        "fq_2": "SRR2194570.2.fastq",
+	"bam": "WT7_Normal.bam",
+        "ID": "SRR2194570",
+        "SM": "SRR2194570",
+        "LB": "SRR2194570",
+        "PU": "SRR2194570",
+        "PL": "Illumina"
+    },
+    "SRR2194561": {
+        "fq_1": "SRR2194561.1.fastq",
+        "fq_2": "SRR2194561.2.fastq",
+	"bam": "WT7_Tumor.bam",
+        "ID": "SRR2194561",
+        "SM": "SRR2194561",
+        "LB": "SRR2194561",
+        "PU": "SRR2194561",
+        "PL": "Illumina"
+    },
+    "SRR2194569": {
+        "fq_1": "SRR2194569.1.fastq",
+        "fq_2": "SRR2194569.2.fastq",
+	"bam": "WT6_Normal.bam",
+        "ID": "SRR2194569",
+        "SM": "SRR2194569",
+        "LB": "SRR2194569",
+        "PU": "SRR2194569",
+        "PL": "Illumina"
+    },
+    "SRR2194560": {
+        "fq_1": "SRR2194560.1.fastq",
+        "fq_2": "SRR2194560.2.fastq",
+	"bam": "WT6_Tumor.bam",
+        "ID": "SRR2194560",
+        "SM": "SRR2194560",
+        "LB": "SRR2194560",
+        "PU": "SRR2194560",
+        "PL": "Illumina"
+    },
+    "SRR2194568": {
+        "fq_1": "SRR2194568.1.fastq",
+        "fq_2": "SRR2194568.2.fastq",
+	"bam": "WT5_Normal.bam",
+        "ID": "SRR2194568",
+        "SM": "SRR2194568",
+        "LB": "SRR2194568",
+        "PU": "SRR2194568",
+        "PL": "Illumina"
+    },
+    "SRR2194559": {
+        "fq_1": "SRR2194559.1.fastq",
+        "fq_2": "SRR2194559.2.fastq",
+	"bam": "WT5_Tumor.bam",
+        "ID": "SRR2194559",
+        "SM": "SRR2194559",
+        "LB": "SRR2194559",
+        "PU": "SRR2194559",
+        "PL": "Illumina"
+    },
+    "ref_dir": "/data/CEM/shared/public_data/references/1000genomes_GRCh38_reference_genome",
+    "ref_basename": "GRCh38_full_analysis_set_plus_decoy_hla",
+    "varscan_path": "/home/eknodel/programs/VarScan.v2.3.9.jar",
+    "gatk_path": "/home/eknodel/programs/gatk-4.1.7.0/gatk",
+    "strelka": "/home/eknodel/programs/strelka-2.9.10-0/bin/configureStrelkaSomaticWorkflow.py",
+    "bam-readcount": "bam-readcount",
+    "perl_fp_filter": "fpfilter-2.pl"
+}

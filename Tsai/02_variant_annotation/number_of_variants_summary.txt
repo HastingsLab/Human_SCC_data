@@ -1,0 +1,4 @@
+filename	num_variants
+gatk	8762
+strelka	9569
+at_least_2_vcfs	4092

@@ -1,0 +1,738 @@
+{
+    "13097": {
+        "normal": "SRR11684417",
+        "tumor": "SRR11684418"
+    },
+    "14894": {
+        "normal": "SRR11684427",
+        "tumor": "SRR11684428"
+    },
+    "21975": {
+        "normal": "SRR11684437",
+        "tumor": "SRR11684438"
+    },
+    "24028": {
+        "normal": "SRR11684439",
+        "tumor": "SRR11684440"
+    },
+    "39237": {
+        "normal": "SRR11684441",
+        "tumor": "SRR11684442"
+    },
+    "44716": {
+        "normal": "SRR11684443",
+        "tumor": "SRR11684444"
+    },
+    "44935": {
+        "normal": "SRR11684453",
+        "tumor": "SRR11684454"
+    },
+    "49108": {
+        "normal": "SRR11684463",
+        "tumor": "SRR11684464"
+    },
+    "54212": {
+        "normal": "SRR11684474",
+        "tumor": "SRR11684475"
+    },
+    "58223": {
+        "normal": "SRR11684476",
+        "tumor": "SRR11684477"
+    },
+    "fastq_path": "/data/CEM/shared/neoantigens/fastq/",
+    "all_samples": [
+        "SRR11684476",
+        "SRR11684477",
+        "SRR11684474",
+        "SRR11684475",
+        "SRR11684463",
+        "SRR11684464",
+        "SRR11684465",
+        "SRR11684466",
+        "SRR11684467",
+        "SRR11684468",
+        "SRR11684469",
+        "SRR11684470",
+        "SRR11684471",
+        "SRR11684472",
+        "SRR11684473",
+        "SRR11684453",
+        "SRR11684454",
+        "SRR11684455",
+        "SRR11684456",
+        "SRR11684457",
+        "SRR11684458",
+        "SRR11684459",
+        "SRR11684460",
+        "SRR11684461",
+        "SRR11684462",
+        "SRR11684443",
+        "SRR11684444",
+        "SRR11684445",
+        "SRR11684446",
+        "SRR11684447",
+        "SRR11684448",
+        "SRR11684449",
+        "SRR11684450",
+        "SRR11684451",
+        "SRR11684452",
+        "SRR11684441",
+        "SRR11684442",
+        "SRR11684439",
+        "SRR11684440",
+        "SRR11684437",
+        "SRR11684438",
+        "SRR11684427",
+        "SRR11684428",
+        "SRR11684429",
+        "SRR11684430",
+        "SRR11684431",
+        "SRR11684432",
+        "SRR11684433",
+        "SRR11684434",
+        "SRR11684435",
+        "SRR11684436",
+        "SRR11684417",
+        "SRR11684418",
+        "SRR11684419",
+        "SRR11684420",
+        "SRR11684421",
+        "SRR11684422",
+        "SRR11684423",
+        "SRR11684424",
+        "SRR11684425",
+        "SRR11684426"
+    ],
+    "DNA": [
+        "SRR11684476",
+        "SRR11684477",
+        "SRR11684474",
+        "SRR11684475",
+        "SRR11684463",
+        "SRR11684464",
+        "SRR11684465",
+        "SRR11684466",
+        "SRR11684467",
+        "SRR11684468",
+        "SRR11684469",
+        "SRR11684470",
+        "SRR11684471",
+        "SRR11684472",
+        "SRR11684473",
+        "SRR11684453",
+        "SRR11684454",
+        "SRR11684455",
+        "SRR11684456",
+        "SRR11684457",
+        "SRR11684458",
+        "SRR11684459",
+        "SRR11684460",
+        "SRR11684461",
+        "SRR11684462",
+        "SRR11684443",
+        "SRR11684444",
+        "SRR11684445",
+        "SRR11684446",
+        "SRR11684447",
+        "SRR11684448",
+        "SRR11684449",
+        "SRR11684450",
+        "SRR11684451",
+        "SRR11684452",
+        "SRR11684441",
+        "SRR11684442",
+        "SRR11684439",
+        "SRR11684440",
+        "SRR11684437",
+        "SRR11684438",
+        "SRR11684427",
+        "SRR11684428",
+        "SRR11684429",
+        "SRR11684430",
+        "SRR11684431",
+        "SRR11684432",
+        "SRR11684433",
+        "SRR11684434",
+        "SRR11684435",
+        "SRR11684436",
+        "SRR11684417",
+        "SRR11684418",
+        "SRR11684419",
+        "SRR11684420",
+        "SRR11684421",
+        "SRR11684422",
+        "SRR11684423",
+        "SRR11684424",
+        "SRR11684425",
+        "SRR11684426"
+    ],
+    "RNA": [],
+    "all_subjects": [
+        "44716",
+        "54212",
+        "44935",
+        "49108",
+        "39237",
+        "21975",
+        "13097",
+        "14894",
+        "24028",
+        "58223"
+    ],
+    "SRR11684476": {
+        "fq_1": "SRR11684476_1.fastq",
+        "fq_2": "SRR11684476_2.fastq",
+        "ID": "SRR11684476",
+        "SM": "SRR11684476",
+        "LB": "SRR11684476",
+        "PU": "SRR11684476",
+        "PL": "Illumina"
+    },
+    "SRR11684477": {
+        "fq_1": "SRR11684477_1.fastq",
+        "fq_2": "SRR11684477_2.fastq",
+        "ID": "SRR11684477",
+        "SM": "SRR11684477",
+        "LB": "SRR11684477",
+        "PU": "SRR11684477",
+        "PL": "Illumina"
+    },
+    "SRR11684474": {
+        "fq_1": "SRR11684474_1.fastq",
+        "fq_2": "SRR11684474_2.fastq",
+        "ID": "SRR11684474",
+        "SM": "SRR11684474",
+        "LB": "SRR11684474",
+        "PU": "SRR11684474",
+        "PL": "Illumina"
+    },
+    "SRR11684475": {
+        "fq_1": "SRR11684475_1.fastq",
+        "fq_2": "SRR11684475_2.fastq",
+        "ID": "SRR11684475",
+        "SM": "SRR11684475",
+        "LB": "SRR11684475",
+        "PU": "SRR11684475",
+        "PL": "Illumina"
+    },
+    "SRR11684463": {
+        "fq_1": "SRR11684463_1.fastq",
+        "fq_2": "SRR11684463_2.fastq",
+        "ID": "SRR11684463",
+        "SM": "SRR11684463",
+        "LB": "SRR11684463",
+        "PU": "SRR11684463",
+        "PL": "Illumina"
+    },
+    "SRR11684464": {
+        "fq_1": "SRR11684464_1.fastq",
+        "fq_2": "SRR11684464_2.fastq",
+        "ID": "SRR11684464",
+        "SM": "SRR11684464",
+        "LB": "SRR11684464",
+        "PU": "SRR11684464",
+        "PL": "Illumina"
+    },
+    "SRR11684465": {
+        "fq_1": "SRR11684465_1.fastq",
+        "fq_2": "SRR11684465_2.fastq",
+        "ID": "SRR11684465",
+        "SM": "SRR11684465",
+        "LB": "SRR11684465",
+        "PU": "SRR11684465",
+        "PL": "Illumina"
+    },
+    "SRR11684466": {
+        "fq_1": "SRR11684466_1.fastq",
+        "fq_2": "SRR11684466_2.fastq",
+        "ID": "SRR11684466",
+        "SM": "SRR11684466",
+        "LB": "SRR11684466",
+        "PU": "SRR11684466",
+        "PL": "Illumina"
+    },
+    "SRR11684467": {
+        "fq_1": "SRR11684467_1.fastq",
+        "fq_2": "SRR11684467_2.fastq",
+        "ID": "SRR11684467",
+        "SM": "SRR11684467",
+        "LB": "SRR11684467",
+        "PU": "SRR11684467",
+        "PL": "Illumina"
+    },
+    "SRR11684468": {
+        "fq_1": "SRR11684468_1.fastq",
+        "fq_2": "SRR11684468_2.fastq",
+        "ID": "SRR11684468",
+        "SM": "SRR11684468",
+        "LB": "SRR11684468",
+        "PU": "SRR11684468",
+        "PL": "Illumina"
+    },
+    "SRR11684469": {
+        "fq_1": "SRR11684469_1.fastq",
+        "fq_2": "SRR11684469_2.fastq",
+        "ID": "SRR11684469",
+        "SM": "SRR11684469",
+        "LB": "SRR11684469",
+        "PU": "SRR11684469",
+        "PL": "Illumina"
+    },
+    "SRR11684470": {
+        "fq_1": "SRR11684470_1.fastq",
+        "fq_2": "SRR11684470_2.fastq",
+        "ID": "SRR11684470",
+        "SM": "SRR11684470",
+        "LB": "SRR11684470",
+        "PU": "SRR11684470",
+        "PL": "Illumina"
+    },
+    "SRR11684471": {
+        "fq_1": "SRR11684471_1.fastq",
+        "fq_2": "SRR11684471_2.fastq",
+        "ID": "SRR11684471",
+        "SM": "SRR11684471",
+        "LB": "SRR11684471",
+        "PU": "SRR11684471",
+        "PL": "Illumina"
+    },
+    "SRR11684472": {
+        "fq_1": "SRR11684472_1.fastq",
+        "fq_2": "SRR11684472_2.fastq",
+        "ID": "SRR11684472",
+        "SM": "SRR11684472",
+        "LB": "SRR11684472",
+        "PU": "SRR11684472",
+        "PL": "Illumina"
+    },
+    "SRR11684473": {
+        "fq_1": "SRR11684473_1.fastq",
+        "fq_2": "SRR11684473_2.fastq",
+        "ID": "SRR11684473",
+        "SM": "SRR11684473",
+        "LB": "SRR11684473",
+        "PU": "SRR11684473",
+        "PL": "Illumina"
+    },
+    "SRR11684453": {
+        "fq_1": "SRR11684453_1.fastq",
+        "fq_2": "SRR11684453_2.fastq",
+        "ID": "SRR11684453",
+        "SM": "SRR11684453",
+        "LB": "SRR11684453",
+        "PU": "SRR11684453",
+        "PL": "Illumina"
+    },
+    "SRR11684454": {
+        "fq_1": "SRR11684454_1.fastq",
+        "fq_2": "SRR11684454_2.fastq",
+        "ID": "SRR11684454",
+        "SM": "SRR11684454",
+        "LB": "SRR11684454",
+        "PU": "SRR11684454",
+        "PL": "Illumina"
+    },
+    "SRR11684455": {
+        "fq_1": "SRR11684455_1.fastq",
+        "fq_2": "SRR11684455_2.fastq",
+        "ID": "SRR11684455",
+        "SM": "SRR11684455",
+        "LB": "SRR11684455",
+        "PU": "SRR11684455",
+        "PL": "Illumina"
+    },
+    "SRR11684456": {
+        "fq_1": "SRR11684456_1.fastq",
+        "fq_2": "SRR11684456_2.fastq",
+        "ID": "SRR11684456",
+        "SM": "SRR11684456",
+        "LB": "SRR11684456",
+        "PU": "SRR11684456",
+        "PL": "Illumina"
+    },
+    "SRR11684457": {
+        "fq_1": "SRR11684457_1.fastq",
+        "fq_2": "SRR11684457_2.fastq",
+        "ID": "SRR11684457",
+        "SM": "SRR11684457",
+        "LB": "SRR11684457",
+        "PU": "SRR11684457",
+        "PL": "Illumina"
+    },
+    "SRR11684458": {
+        "fq_1": "SRR11684458_1.fastq",
+        "fq_2": "SRR11684458_2.fastq",
+        "ID": "SRR11684458",
+        "SM": "SRR11684458",
+        "LB": "SRR11684458",
+        "PU": "SRR11684458",
+        "PL": "Illumina"
+    },
+    "SRR11684459": {
+        "fq_1": "SRR11684459_1.fastq",
+        "fq_2": "SRR11684459_2.fastq",
+        "ID": "SRR11684459",
+        "SM": "SRR11684459",
+        "LB": "SRR11684459",
+        "PU": "SRR11684459",
+        "PL": "Illumina"
+    },
+    "SRR11684460": {
+        "fq_1": "SRR11684460_1.fastq",
+        "fq_2": "SRR11684460_2.fastq",
+        "ID": "SRR11684460",
+        "SM": "SRR11684460",
+        "LB": "SRR11684460",
+        "PU": "SRR11684460",
+        "PL": "Illumina"
+    },
+    "SRR11684461": {
+        "fq_1": "SRR11684461_1.fastq",
+        "fq_2": "SRR11684461_2.fastq",
+        "ID": "SRR11684461",
+        "SM": "SRR11684461",
+        "LB": "SRR11684461",
+        "PU": "SRR11684461",
+        "PL": "Illumina"
+    },
+    "SRR11684462": {
+        "fq_1": "SRR11684462_1.fastq",
+        "fq_2": "SRR11684462_2.fastq",
+        "ID": "SRR11684462",
+        "SM": "SRR11684462",
+        "LB": "SRR11684462",
+        "PU": "SRR11684462",
+        "PL": "Illumina"
+    },
+    "SRR11684443": {
+        "fq_1": "SRR11684443_1.fastq",
+        "fq_2": "SRR11684443_2.fastq",
+        "ID": "SRR11684443",
+        "SM": "SRR11684443",
+        "LB": "SRR11684443",
+        "PU": "SRR11684443",
+        "PL": "Illumina"
+    },
+    "SRR11684444": {
+        "fq_1": "SRR11684444_1.fastq",
+        "fq_2": "SRR11684444_2.fastq",
+        "ID": "SRR11684444",
+        "SM": "SRR11684444",
+        "LB": "SRR11684444",
+        "PU": "SRR11684444",
+        "PL": "Illumina"
+    },
+    "SRR11684445": {
+        "fq_1": "SRR11684445_1.fastq",
+        "fq_2": "SRR11684445_2.fastq",
+        "ID": "SRR11684445",
+        "SM": "SRR11684445",
+        "LB": "SRR11684445",
+        "PU": "SRR11684445",
+        "PL": "Illumina"
+    },
+    "SRR11684446": {
+        "fq_1": "SRR11684446_1.fastq",
+        "fq_2": "SRR11684446_2.fastq",
+        "ID": "SRR11684446",
+        "SM": "SRR11684446",
+        "LB": "SRR11684446",
+        "PU": "SRR11684446",
+        "PL": "Illumina"
+    },
+    "SRR11684447": {
+        "fq_1": "SRR11684447_1.fastq",
+        "fq_2": "SRR11684447_2.fastq",
+        "ID": "SRR11684447",
+        "SM": "SRR11684447",
+        "LB": "SRR11684447",
+        "PU": "SRR11684447",
+        "PL": "Illumina"
+    },
+    "SRR11684448": {
+        "fq_1": "SRR11684448_1.fastq",
+        "fq_2": "SRR11684448_2.fastq",
+        "ID": "SRR11684448",
+        "SM": "SRR11684448",
+        "LB": "SRR11684448",
+        "PU": "SRR11684448",
+        "PL": "Illumina"
+    },
+    "SRR11684449": {
+        "fq_1": "SRR11684449_1.fastq",
+        "fq_2": "SRR11684449_2.fastq",
+        "ID": "SRR11684449",
+        "SM": "SRR11684449",
+        "LB": "SRR11684449",
+        "PU": "SRR11684449",
+        "PL": "Illumina"
+    },
+    "SRR11684450": {
+        "fq_1": "SRR11684450_1.fastq",
+        "fq_2": "SRR11684450_2.fastq",
+        "ID": "SRR11684450",
+        "SM": "SRR11684450",
+        "LB": "SRR11684450",
+        "PU": "SRR11684450",
+        "PL": "Illumina"
+    },
+    "SRR11684451": {
+        "fq_1": "SRR11684451_1.fastq",
+        "fq_2": "SRR11684451_2.fastq",
+        "ID": "SRR11684451",
+        "SM": "SRR11684451",
+        "LB": "SRR11684451",
+        "PU": "SRR11684451",
+        "PL": "Illumina"
+    },
+    "SRR11684452": {
+        "fq_1": "SRR11684452_1.fastq",
+        "fq_2": "SRR11684452_2.fastq",
+        "ID": "SRR11684452",
+        "SM": "SRR11684452",
+        "LB": "SRR11684452",
+        "PU": "SRR11684452",
+        "PL": "Illumina"
+    },
+    "SRR11684441": {
+        "fq_1": "SRR11684441_1.fastq",
+        "fq_2": "SRR11684441_2.fastq",
+        "ID": "SRR11684441",
+        "SM": "SRR11684441",
+        "LB": "SRR11684441",
+        "PU": "SRR11684441",
+        "PL": "Illumina"
+    },
+    "SRR11684442": {
+        "fq_1": "SRR11684442_1.fastq",
+        "fq_2": "SRR11684442_2.fastq",
+        "ID": "SRR11684442",
+        "SM": "SRR11684442",
+        "LB": "SRR11684442",
+        "PU": "SRR11684442",
+        "PL": "Illumina"
+    },
+    "SRR11684439": {
+        "fq_1": "SRR11684439_1.fastq",
+        "fq_2": "SRR11684439_2.fastq",
+        "ID": "SRR11684439",
+        "SM": "SRR11684439",
+        "LB": "SRR11684439",
+        "PU": "SRR11684439",
+        "PL": "Illumina"
+    },
+    "SRR11684440": {
+        "fq_1": "SRR11684440_1.fastq",
+        "fq_2": "SRR11684440_2.fastq",
+        "ID": "SRR11684440",
+        "SM": "SRR11684440",
+        "LB": "SRR11684440",
+        "PU": "SRR11684440",
+        "PL": "Illumina"
+    },
+    "SRR11684437": {
+        "fq_1": "SRR11684437_1.fastq",
+        "fq_2": "SRR11684437_2.fastq",
+        "ID": "SRR11684437",
+        "SM": "SRR11684437",
+        "LB": "SRR11684437",
+        "PU": "SRR11684437",
+        "PL": "Illumina"
+    },
+    "SRR11684438": {
+        "fq_1": "SRR11684438_1.fastq",
+        "fq_2": "SRR11684438_2.fastq",
+        "ID": "SRR11684438",
+        "SM": "SRR11684438",
+        "LB": "SRR11684438",
+        "PU": "SRR11684438",
+        "PL": "Illumina"
+    },
+    "SRR11684427": {
+        "fq_1": "SRR11684427_1.fastq",
+        "fq_2": "SRR11684427_2.fastq",
+        "ID": "SRR11684427",
+        "SM": "SRR11684427",
+        "LB": "SRR11684427",
+        "PU": "SRR11684427",
+        "PL": "Illumina"
+    },
+    "SRR11684428": {
+        "fq_1": "SRR11684428_1.fastq",
+        "fq_2": "SRR11684428_2.fastq",
+        "ID": "SRR11684428",
+        "SM": "SRR11684428",
+        "LB": "SRR11684428",
+        "PU": "SRR11684428",
+        "PL": "Illumina"
+    },
+    "SRR11684429": {
+        "fq_1": "SRR11684429_1.fastq",
+        "fq_2": "SRR11684429_2.fastq",
+        "ID": "SRR11684429",
+        "SM": "SRR11684429",
+        "LB": "SRR11684429",
+        "PU": "SRR11684429",
+        "PL": "Illumina"
+    },
+    "SRR11684430": {
+        "fq_1": "SRR11684430_1.fastq",
+        "fq_2": "SRR11684430_2.fastq",
+        "ID": "SRR11684430",
+        "SM": "SRR11684430",
+        "LB": "SRR11684430",
+        "PU": "SRR11684430",
+        "PL": "Illumina"
+    },
+    "SRR11684431": {
+        "fq_1": "SRR11684431_1.fastq",
+        "fq_2": "SRR11684431_2.fastq",
+        "ID": "SRR11684431",
+        "SM": "SRR11684431",
+        "LB": "SRR11684431",
+        "PU": "SRR11684431",
+        "PL": "Illumina"
+    },
+    "SRR11684432": {
+        "fq_1": "SRR11684432_1.fastq",
+        "fq_2": "SRR11684432_2.fastq",
+        "ID": "SRR11684432",
+        "SM": "SRR11684432",
+        "LB": "SRR11684432",
+        "PU": "SRR11684432",
+        "PL": "Illumina"
+    },
+    "SRR11684433": {
+        "fq_1": "SRR11684433_1.fastq",
+        "fq_2": "SRR11684433_2.fastq",
+        "ID": "SRR11684433",
+        "SM": "SRR11684433",
+        "LB": "SRR11684433",
+        "PU": "SRR11684433",
+        "PL": "Illumina"
+    },
+    "SRR11684434": {
+        "fq_1": "SRR11684434_1.fastq",
+        "fq_2": "SRR11684434_2.fastq",
+        "ID": "SRR11684434",
+        "SM": "SRR11684434",
+        "LB": "SRR11684434",
+        "PU": "SRR11684434",
+        "PL": "Illumina"
+    },
+    "SRR11684435": {
+        "fq_1": "SRR11684435_1.fastq",
+        "fq_2": "SRR11684435_2.fastq",
+        "ID": "SRR11684435",
+        "SM": "SRR11684435",
+        "LB": "SRR11684435",
+        "PU": "SRR11684435",
+        "PL": "Illumina"
+    },
+    "SRR11684436": {
+        "fq_1": "SRR11684436_1.fastq",
+        "fq_2": "SRR11684436_2.fastq",
+        "ID": "SRR11684436",
+        "SM": "SRR11684436",
+        "LB": "SRR11684436",
+        "PU": "SRR11684436",
+        "PL": "Illumina"
+    },
+    "SRR11684417": {
+        "fq_1": "SRR11684417_1.fastq",
+        "fq_2": "SRR11684417_2.fastq",
+        "ID": "SRR11684417",
+        "SM": "SRR11684417",
+        "LB": "SRR11684417",
+        "PU": "SRR11684417",
+        "PL": "Illumina"
+    },
+    "SRR11684418": {
+        "fq_1": "SRR11684418_1.fastq",
+        "fq_2": "SRR11684418_2.fastq",
+        "ID": "SRR11684418",
+        "SM": "SRR11684418",
+        "LB": "SRR11684418",
+        "PU": "SRR11684418",
+        "PL": "Illumina"
+    },
+    "SRR11684419": {
+        "fq_1": "SRR11684419_1.fastq",
+        "fq_2": "SRR11684419_2.fastq",
+        "ID": "SRR11684419",
+        "SM": "SRR11684419",
+        "LB": "SRR11684419",
+        "PU": "SRR11684419",
+        "PL": "Illumina"
+    },
+    "SRR11684420": {
+        "fq_1": "SRR11684420_1.fastq",
+        "fq_2": "SRR11684420_2.fastq",
+        "ID": "SRR11684420",
+        "SM": "SRR11684420",
+        "LB": "SRR11684420",
+        "PU": "SRR11684420",
+        "PL": "Illumina"
+    },
+    "SRR11684421": {
+        "fq_1": "SRR11684421_1.fastq",
+        "fq_2": "SRR11684421_2.fastq",
+        "ID": "SRR11684421",
+        "SM": "SRR11684421",
+        "LB": "SRR11684421",
+        "PU": "SRR11684421",
+        "PL": "Illumina"
+    },
+    "SRR11684422": {
+        "fq_1": "SRR11684422_1.fastq",
+        "fq_2": "SRR11684422_2.fastq",
+        "ID": "SRR11684422",
+        "SM": "SRR11684422",
+        "LB": "SRR11684422",
+        "PU": "SRR11684422",
+        "PL": "Illumina"
+    },
+    "SRR11684423": {
+        "fq_1": "SRR11684423_1.fastq",
+        "fq_2": "SRR11684423_2.fastq",
+        "ID": "SRR11684423",
+        "SM": "SRR11684423",
+        "LB": "SRR11684423",
+        "PU": "SRR11684423",
+        "PL": "Illumina"
+    },
+    "SRR11684424": {
+        "fq_1": "SRR11684424_1.fastq",
+        "fq_2": "SRR11684424_2.fastq",
+        "ID": "SRR11684424",
+        "SM": "SRR11684424",
+        "LB": "SRR11684424",
+        "PU": "SRR11684424",
+        "PL": "Illumina"
+    },
+    "SRR11684425": {
+        "fq_1": "SRR11684425_1.fastq",
+        "fq_2": "SRR11684425_2.fastq",
+        "ID": "SRR11684425",
+        "SM": "SRR11684425",
+        "LB": "SRR11684425",
+        "PU": "SRR11684425",
+        "PL": "Illumina"
+    },
+    "SRR11684426": {
+        "fq_1": "SRR11684426_1.fastq",
+        "fq_2": "SRR11684426_2.fastq",
+        "ID": "SRR11684426",
+        "SM": "SRR11684426",
+        "LB": "SRR11684426",
+        "PU": "SRR11684426",
+        "PL": "Illumina"
+    },
+    "ref_dir": "/data/CEM/shared/public_data/references/1000genomes_GRCh38_reference_genome",
+    "ref_basename": "GRCh38_full_analysis_set_plus_decoy_hla",
+    "varscan_path": "/home/eknodel/programs/VarScan.v2.3.9.jar",
+    "gatk_path": "/home/eknodel/programs/gatk-4.1.7.0/gatk",
+    "strelka": "/home/eknodel/programs/strelka-2.9.10-0/bin/configureStrelkaSomaticWorkflow.py",
+    "bam-readcount": "bam-readcount",
+    "perl_fp_filter": "fpfilter-2.pl"
+}

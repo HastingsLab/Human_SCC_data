@@ -1,0 +1,34 @@
+{
+"ref_dir": "/data/CEM/shared/public_data/references/1000genomes_GRCh38_reference_genome",
+"ref_basename": "GRCh38_full_analysis_set_plus_decoy_hla",
+"fastq_path": "/data/CEM/shared/controlled_access/TSAI/RNA_fq/",
+
+    "all_samples": [
+        "SRR3877297", 
+        "SRR3877306", 
+        "SRR3877315",
+        "SRR3877298", 
+        "SRR3877307", 
+        "SRR3877316",
+        "SRR3877299", 
+        "SRR3877308", 
+        "SRR3877317",
+        "SRR3877300",
+        "SRR3877301", 
+        "SRR3877309", 
+        "SRR3877318",
+        "SRR3877310", 
+        "SRR3877319",
+        "SRR3877302", 
+        "SRR3877311", 
+        "SRR3877320",
+        "SRR3877303", 
+        "SRR3877312", 
+        "SRR3877321",
+        "SRR3877304", 
+        "SRR3877313", 
+        "SRR3877322",
+        "SRR3877305", 
+        "SRR3877314"
+    ]
+}

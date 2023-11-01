@@ -1,0 +1,157 @@
+{
+"ref_dir": "/data/CEM/shared/public_data/references/T2T_CHM13_v2",
+"ref_basename": "GCA_009914755.4_CHM13_T2T_v2.0_genomic",
+"fastq_path": "/data/CEM/shared/controlled_access/TSAI/origin_fq",
+"gatk_path": "/home/eknodel/gatk-4.1.7.0/gatk",
+"strelka": "/home/eknodel/strelka-2.9.2.centos6_x86_64/bin/configureStrelkaSomaticWorkflow.py",
+"varscan_path": "/home/eknodel/external_scripts/VarScan.v2.3.9.jar",
+
+    "all_samples": [
+        "Te1AK",
+        "Te1NS",
+        "Te1saliva",
+        "Te2AK",
+        "Te2NS",
+        "Te2SCC",
+        "Te3AK",
+        "Te3NS",
+        "Te3SCC",
+        "Te4AK",
+        "Te4NS",
+        "Te4saliva",
+        "Te4SCC1",
+        "Te4SCC2",
+        "Te5AK",
+        "Te5NS",
+        "Te5saliva",
+        "Te5SCC",
+        "Te6NS",
+        "Te6saliva",
+        "Te6SCC",
+        "Te8NS",
+        "Te8saliva",
+        "Te8SCC",
+        "Te10AK",
+        "Te10NS",
+        "Te10saliva",
+        "Te12AK",
+        "Te12saliva"
+    ],
+
+    "patients": [
+        "patient_1_AK",
+        "patient_2_AK",
+        "patient_2_SCC", 
+        "patient_3_AK", 
+        "patient_3_SCC", 
+        "patient_4_AK", 
+        "patient_4_SCC1", 
+        "patient_4_SCC2", 
+        "patient_5_SCC", 
+        "patient_6_SCC", 
+        "patient_8_SCC", 
+        "patient_10_AK",
+        "patient_12_AK"
+    ],
+
+    "patients_with_ns": [
+        "patient_1_AK",
+        "patient_2_AK",
+        "patient_2_SCC",
+        "patient_3_AK",
+        "patient_3_SCC",
+        "patient_4_AK",
+        "patient_4_SCC1",
+        "patient_4_SCC2",
+        "patient_5_SCC",
+        "patient_6_SCC",
+        "patient_8_SCC",
+        "patient_10_AK"
+    ],
+
+    "patients_with_saliva": [
+        "patient_1_AK",
+        "patient_4_AK",
+        "patient_4_SCC1",
+        "patient_4_SCC2",
+        "patient_5_SCC",
+        "patient_6_SCC",
+        "patient_8_SCC",
+        "patient_10_AK",
+        "patient_12_AK"
+    ],
+
+    "patient_1_AK": {
+        "tumor_sample": "Te1AK",
+        "normal_skin_sample": "Te1NS",
+        "saliva_sample": "Te1saliva",
+        "hla": "HLA-A68:02,HLA-A31:01,HLA-B40:02,HLA-B55:01,HLA-C02:02,HLA-C01:02"
+    },
+    "patient_2_AK": {
+        "tumor_sample": "Te2AK",
+        "normal_skin_sample": "Te2NS",
+        "hla": "HLA-A29:01,HLA-A03:01,HLA-B44:03,HLA-B14:01,HLA-C16:01,HLA-C08:02"
+    },
+    "patient_2_SCC": {
+        "tumor_sample": "Te2SCC",
+        "normal_skin_sample": "Te2NS",
+        "hla": "HLA-A03:01,HLA-A03:01,HLA-B14:01,HLA-B14:01,HLA-C08:02,HLA-C08:02"
+    },    
+    "patient_3_AK": {
+        "tumor_sample": "Te3AK",
+        "normal_skin_sample": "Te3NS",
+        "hla": "HLA-A02:01,HLA-A02:01,HLA-B44:02,HLA-B49:01,HLA-C07:01,HLA-C05:01"
+    },
+    "patient_3_SCC": {
+        "tumor_sample": "Te3SCC",
+        "normal_skin_sample": "Te3NS",
+        "hla": "HLA-A02:01,HLA-A02:01,HLA-B44:02,HLA-B49:01,HLA-C07:01,HLA-C05:01"
+    },
+    "patient_4_AK": {
+        "tumor_sample": "Te4AK",
+        "normal_skin_sample": "Te4NS",
+        "saliva_sample": "Te4saliva",
+        "hla": "HLA-A03:01,HLA-A02:02,HLA-B51:01,HLA-B13:01,HLA-C01:02,HLA-C06:02"
+    },
+    "patient_4_SCC1":{
+        "tumor_sample": "Te4SCC1",
+        "normal_skin_sample": "Te4NS",
+        "saliva_sample": "Te4saliva",
+        "hla": "HLA-A03:01,HLA-A02:02,HLA-B51:01,HLA-B13:01,HLA-C06:02,HLA-C01:02"
+    },
+    "patient_4_SCC2":{
+        "tumor_sample": "Te4SCC2",
+        "normal_skin_sample": "Te4NS",
+        "saliva_sample": "Te4saliva",
+        "hla": "HLA-A03:01,HLA-A02:01,HLA-B51:01,HLA-B13:01,HLA-C06:02,HLA-C01:02"
+    },
+    "patient_5_SCC":{
+        "tumor_sample": "Te5SCC",
+        "normal_skin_sample": "Te5NS",
+        "saliva_sample": "Te5saliva",
+        "hla": "HLA-A11:01,HLA-A23:01,HLA-B35:01,HLA-B54:01,HLA-C12:02,HLA-C03:03"
+    },
+    "patient_6_SCC":{
+        "tumor_sample": "Te6SCC",
+        "normal_skin_sample": "Te6NS",
+        "saliva_sample": "Te6saliva",
+        "hla": "HLA-A11:01,HLA-A02:01,HLA-B53:01,HLA-B18:01,HLA-C05:01,HLA-C04:01"
+    },
+    "patient_8_SCC":{
+        "tumor_sample": "Te8SCC",
+        "normal_skin_sample": "Te8NS",
+        "saliva_sample": "Te8saliva",
+        "hla": "HLA-A32:01,HLA-A02:01,HLA-B57:01,HLA-B57:01,HLA-C06:02,HLA-C06:02"
+    },
+    "patient_10_AK":{
+        "tumor_sample": "Te10AK",
+        "normal_skin_sample": "Te10NS",
+        "saliva_sample": "Te10saliva",
+        "hla": "HLA-A11:01,HLA-A24:02,HLA-B35:01,HLA-B14:01,HLA-C04:01,HLA-C08:02"
+    },
+    "patient_12_AK":{
+        "tumor_sample": "Te12AK",
+        "saliva_sample": "Te12saliva",
+        "hla": "HLA-A01:01,HLA-A31:01,HLA-B40:01,HLA-B35:01,HLA-C03:02,HLA-C06:02"
+    }
+}
