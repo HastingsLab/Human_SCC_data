@@ -17,13 +17,9 @@ Contact: knodele@arizona.edu
 | Dataset | Paper Link | Number of samples |
 | ------- | --------- | ----------------- |
 | Ji et al. 2020 Cell | [Full text](https://www.sciencedirect.com/science/article/pii/S0092867420306723) | 9 | 
-| ------- | --------- | ----------------- |
 | Chitsazzadeh et al. 2016 Nature communications | [Full text](https://www.nature.com/articles/ncomms12601) | 7 | 
-| ------- | --------- | ----------------- |
 | C. Zheng et al. 2014 Cell Reports | [Full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4254608/) | 13 |
-| ------- | --------- | ----------------- |
 | Q. Zheng et al. 2021 Journal of Investigative Dermatology | [Full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7790860/) | 10 |
-| ------- | --------- | ----------------- |
 
 ## Environments
 
